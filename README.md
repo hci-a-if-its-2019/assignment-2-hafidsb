@@ -11,8 +11,19 @@ You need **not** sketch the whole interface. It is not necessary for the sketche
 Be sure to label the different versions so you can differentiate them in your discussion. 
 If you choose to take a picture of your sketches, please make sure the texts are readable.
 ```
+#### Original Design
+![original](https://user-images.githubusercontent.com/32842793/54727231-3a3ad080-4ba9-11e9-9463-cf5a7f3571bb.jpg)
 
-![Scan/Photo of Sketches](https://picsum.photos/400/300/?random)
+#### First Proposed Design
+![first-des](https://user-images.githubusercontent.com/32842793/54727292-8d148800-4ba9-11e9-8165-288dedac829f.jpg)
+
+#### Second Proposed Design
+![secondd-es-1](https://user-images.githubusercontent.com/32842793/54727259-68b8ab80-4ba9-11e9-830a-b578023a3a3d.jpg)
+![secondd-es-2](https://user-images.githubusercontent.com/32842793/54727265-6c4c3280-4ba9-11e9-8e09-ec16211755a3.jpg)
+
+#### Third Proposed Design
+![third-des](https://user-images.githubusercontent.com/32842793/54727293-8dad1e80-4ba9-11e9-8060-8cfc91a3c4fc.jpg)
+
 
 ### 2. Version Differences
 ```
