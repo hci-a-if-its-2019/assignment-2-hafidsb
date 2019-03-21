@@ -18,29 +18,25 @@ If you choose to take a picture of your sketches, please make sure the texts are
 ![first-des](https://user-images.githubusercontent.com/32842793/54727292-8d148800-4ba9-11e9-8165-288dedac829f.jpg)
 
 #### Second Proposed Design
-![secondd-es-1](https://user-images.githubusercontent.com/32842793/54727259-68b8ab80-4ba9-11e9-830a-b578023a3a3d.jpg)
-![secondd-es-2](https://user-images.githubusercontent.com/32842793/54727265-6c4c3280-4ba9-11e9-8e09-ec16211755a3.jpg)
+![secondd-es-1](https://user-images.githubusercontent.com/32842793/54727259-68b8ab80-4ba9-11e9-830a-b578023a3a3d.jpg) ![secondd-es-2](https://user-images.githubusercontent.com/32842793/54727265-6c4c3280-4ba9-11e9-8e09-ec16211755a3.jpg)
 
 #### Third Proposed Design
 ![third-des](https://user-images.githubusercontent.com/32842793/54727293-8dad1e80-4ba9-11e9-8060-8cfc91a3c4fc.jpg)
 
 
 ### 2. Version Differences
-```
+
 The originial design's home screen crumples information in every sections, making it unreadable and unnatractive. Generally in all those proposed design I try to squeeze all the information into tiny digestable pieces of information in the form of link to another pages that have those specific informations, but with different approaches. In the first design I utilize top navbar as the placeholder of the link buttons, and display general necessary information in the home screen. While in the second design, I want to display a bit more information but packed accordingly. With product display that is based on category, with search bar on the top, and some helper widget like home button, account button, and a burger icon button that displays additional important link on the site. Then finally on my last proposed design, I suggest simpler home screen view. With only logo, a search bar, short & precise information, and additional important links, make it obvious to the visitor of what the website is capable of with minimalist effort. 
-```
+
 
 ### 3. Selected Sketch
-```
+
 Personally, I think the third design is easy to implement with bigger result. But living on the online era, I've found many great online shops where my second proposed design is based on. And also, those online shop design is already tested and improved gradually. So I think second design will be my choice. 
 
-```
 
 ### 4. Design Rationale
-```
-I learned that not all people(but, many I guess) are as tech-savy as many of us in Informatics Department. As for how it affect my design, I feel because my selection is a generally bad UI design, what I got from the contextual inquiry process did not affect my design much.  
 
-```
+I learned that not all people(but, many I guess) are as tech-savy as many of us in Informatics Department. As for how it affect my design, I feel because my selection is a generally bad UI design, what I got from the contextual inquiry process did not affect my design much.  
 
 ## Part B: Assumptions
 ### 1. Hardware
