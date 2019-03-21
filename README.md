@@ -27,37 +27,31 @@ If you choose to take a picture of your sketches, please make sure the texts are
 
 ### 2. Version Differences
 ```
-Please write a paragraph talking about the differences between the versions
+The originial design's home screen crumples information in every sections, making it unreadable and unnatractive. Generally in all those proposed design I try to squeeze all the information into tiny digestable pieces of information in the form of link to another pages that have those specific informations, but with different approaches. In the first design I utilize top navbar as the placeholder of the link buttons, and display general necessary information in the home screen. While in the second design, I want to display a bit more information but packed accordingly. With product display that is based on category, with search bar on the top, and some helper widget like home button, account button, and a burger icon button that displays additional important link on the site. Then finally on my last proposed design, I suggest simpler home screen view. With only logo, a search bar, short & precise information, and additional important links, make it obvious to the visitor of what the website is capable of with minimalist effort. 
 ```
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+Personally, I think the third design is easy to implement with bigger result. But living on the online era, I've found many great online shops where my second proposed design is based on. And also, those online shop design is already tested and improved gradually. So I think second design will be my choice. 
+
 ```
 
 ### 4. Design Rationale
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+I learned that not all people(but, many I guess) are as tech-savy as many of us in Informatics Department. As for how it affect my design, I feel because my selection is a generally bad UI design, what I got from the contextual inquiry process did not affect my design much.  
+
 ```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+Expected hardware: a PC / laptop accomodated with mouse or touch pad, with colored 1366x768 screen. 
+
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+Expected user: A novice on using laptop / PC and on using web browser, aged 9-60, familiar with online shopping
+
 ```
 
 ## Part C: Prototypes
