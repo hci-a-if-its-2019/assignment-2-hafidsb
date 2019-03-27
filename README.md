@@ -51,4 +51,5 @@ Expected user: A novice on using laptop / PC and on using web browser, aged 9-60
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+- [Invision freehand result](https://projects.invisionapp.com/freehand/document/AcRYu2qg8) 
+- [Invision prototype result](https://invis.io/5XR8EO82GVB#/354667732_Home)
