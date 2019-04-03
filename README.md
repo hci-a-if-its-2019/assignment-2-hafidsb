@@ -51,5 +51,8 @@ Expected user: A novice on using laptop / PC and on using web browser, aged 9-60
 ```
 
 ## Part C: Prototypes
-- [Invision freehand result](https://projects.invisionapp.com/freehand/document/AcRYu2qg8) 
-- [Invision prototype result](https://invis.io/5XR8EO82GVB#/354667732_Home)
+- Low-fidelity
+  - [Invision freehand result](https://projects.invisionapp.com/freehand/document/AcRYu2qg8) 
+  - [Invision prototype result](https://invis.io/5XR8EO82GVB#/354667732_Home)
+- High-fidelity
+  - [Invision prototype result](https://invis.io/2RRCUHP7T95)
