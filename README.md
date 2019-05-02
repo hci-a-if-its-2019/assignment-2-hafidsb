@@ -56,3 +56,5 @@ Expected user: A novice on using laptop / PC and on using web browser, aged 9-60
   - [Invision prototype result](https://invis.io/5XR8EO82GVB#/354667732_Home)
 - High-fidelity
   - [Invision prototype result](https://invis.io/2RRCUHP7T95)
+  - [Video demo](https://youtu.be/98jKzYqWDWs)
+  
